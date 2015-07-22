@@ -7,10 +7,12 @@
     "chalk": "^1.1.0"
   },
   "devDependencies": {
-    "chalk": "^1.1.0"
+    "chalk": "^1.1.0",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
   },
   "scripts": {
-    "test": "node index.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
