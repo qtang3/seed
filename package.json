@@ -10,7 +10,7 @@
     "chalk": "^1.1.0"
   },
   "scripts": {
-    "test": "echo 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
