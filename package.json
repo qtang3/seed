@@ -12,7 +12,7 @@
     "should": "^7.0.2"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "node index.js && mocha"
   },
   "repository": {
     "type": "git",
